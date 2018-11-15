@@ -1,0 +1,47 @@
+
+10 year back ago,
+to do development,sever teams are involved
+
+development team
+
+testing
+quality control
+
+Operations:
+deployment
+IT team
+
+DEVOPS:CI+CD
+DEVOPS=DEV+OPS(operations teams responsibilities)
+
+Nightly Build:suitable mainly fr water fall approaches
+Developer will write code in eclipse
+Devlopers commits code to code repo using git.
+On every day in between 6pm to 8pm,servers will pull ur code from git
+and will build your code.
+
+   Disadvantage:per day u can run only one build.
+
+CI(continous Integration):Agile or Scrum methodologies
+
+Developer will write code in eclipse
+Devlopers commits code to code repo using git.
+WHen ever new code arrives in code repo,server will automatically
+run new builds.
+Advantage:'n' no of build can be created in a day
+
+2:30pm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
